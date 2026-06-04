@@ -14,6 +14,7 @@
 ### 👀 ¿Qué vas a encontrar en mi portfolio?
 
 He dejado una lista específica de lo que he hecho de momento:
+
 · Carrito de compra hecho en java
 
 · Web HTML sobre una web corporativa
