@@ -15,6 +15,9 @@
 
 He dejado una lista específica de lo que he hecho de momento:
 · Carrito de compra hecho en java
+
 · Web HTML sobre una web corporativa
+
 · Aplicación educativa sobre "false friends" realizada como proyecto final de Standford University's Code In Place 2026
+
 · Modelo neuronal hecho como proyecto final en el curso que realicé de 170 hora de Machine Learning y Redes Neuronales ofrecido por la Junta de Andalucía.
